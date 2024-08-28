@@ -254,3 +254,163 @@
 2023-08-30 07:11:10,266 - com.project.utils.ElementUtils -INFO - [[ChromeDriver: chrome on linux (d3d2129c5aec826aac4bf256108446e5)] -> xpath: //input[@id='button-search']/following-sibling::p] element is clickable
 2023-08-30 07:11:10,280 - com.project.utils.ElementUtils -INFO - getting text from webpage There is no product that matches the search criteria.
 2023-08-30 07:11:10,390 - com.project.hook.MyHooks -INFO - driver  quit
+2024-08-28 15:48:34,645 - com.AHF.utils.ConfigReader -INFO - read property file 
+2024-08-28 15:48:37,402 - com.AHF.driverfactory.DriverFactory -INFO - chrome driver initialized
+2024-08-28 15:48:39,276 - com.AHF.hook.MyHooks -INFO - url loaded in browser https://ahfqa.walkingtree.tech/#/signin
+2024-08-28 15:48:39,478 - com.AHF.hook.MyHooks -INFO - driver  quit
+2024-08-28 15:48:39,492 - com.AHF.utils.ConfigReader -INFO - read property file 
+2024-08-28 15:48:40,553 - com.AHF.driverfactory.DriverFactory -INFO - chrome driver initialized
+2024-08-28 15:48:51,170 - com.AHF.hook.MyHooks -INFO - url loaded in browser https://ahfqa.walkingtree.tech/#/signin
+2024-08-28 15:48:51,411 - com.AHF.hook.MyHooks -INFO - driver  quit
+2024-08-28 15:48:51,422 - com.AHF.utils.ConfigReader -INFO - read property file 
+2024-08-28 15:48:52,297 - com.AHF.driverfactory.DriverFactory -INFO - chrome driver initialized
+2024-08-28 15:48:54,097 - com.AHF.hook.MyHooks -INFO - url loaded in browser https://ahfqa.walkingtree.tech/#/signin
+2024-08-28 15:48:54,418 - com.AHF.hook.MyHooks -INFO - driver  quit
+2024-08-28 15:48:54,433 - com.AHF.utils.ConfigReader -INFO - read property file 
+2024-08-28 15:48:55,352 - com.AHF.driverfactory.DriverFactory -INFO - chrome driver initialized
+2024-08-28 15:48:57,329 - com.AHF.hook.MyHooks -INFO - url loaded in browser https://ahfqa.walkingtree.tech/#/signin
+2024-08-28 15:48:57,980 - com.AHF.hook.MyHooks -INFO - driver  quit
+2024-08-28 17:08:09,421 - com.AHF.utils.ConfigReader -INFO - read property file 
+2024-08-28 17:08:12,423 - com.AHF.driverfactory.DriverFactory -INFO - chrome driver initialized
+2024-08-28 17:08:13,020 - com.AHF.hook.MyHooks -INFO - url loaded in browser https://dev-diwas.walkingtree.tech/diwas
+2024-08-28 17:08:15,229 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (08172f25182574b7edc78eeebf419344)] -> xpath: //*[text()='Login']] element is clickable
+2024-08-28 17:08:25,569 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element Proxy element for: DefaultElementLocator 'By.xpath: //*[text()='Login']'
+2024-08-28 17:08:25,955 - com.AHF.hook.MyHooks -INFO - driver  quit
+2024-08-28 18:00:11,602 - com.AHF.utils.ConfigReader -INFO - read property file 
+2024-08-28 18:00:13,628 - com.AHF.driverfactory.DriverFactory -INFO - chrome driver initialized
+2024-08-28 18:00:17,136 - com.AHF.hook.MyHooks -INFO - url loaded in browser https://dev-diwas.walkingtree.tech/diwas
+2024-08-28 18:00:17,264 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (4f0afd512083f3a53ab8fdee950c3dc4)] -> xpath: //*[text()='Login']] element is clickable
+2024-08-28 18:00:27,551 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element Proxy element for: DefaultElementLocator 'By.xpath: //*[text()='Login']'
+2024-08-28 18:00:27,776 - com.AHF.utils.CommonUtils -INFO - takeScreenShot() invoked , screenshot taken
+2024-08-28 18:00:27,786 - com.AHF.hook.MyHooks -INFO - scenario failed
+2024-08-28 18:00:28,047 - com.AHF.hook.MyHooks -INFO - driver  quit
+2024-08-28 18:01:25,927 - com.AHF.utils.ConfigReader -INFO - read property file 
+2024-08-28 18:01:27,919 - com.AHF.driverfactory.DriverFactory -INFO - chrome driver initialized
+2024-08-28 18:01:30,439 - com.AHF.hook.MyHooks -INFO - url loaded in browser https://dev-diwas.walkingtree.tech/diwas
+2024-08-28 18:01:30,558 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (fb87cadba3f4ad3aa7d58be28caa7b94)] -> xpath: //*[text()='Login']] element is clickable
+2024-08-28 18:01:40,797 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element Proxy element for: DefaultElementLocator 'By.xpath: //*[text()='Login']'
+2024-08-28 18:01:40,892 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (fb87cadba3f4ad3aa7d58be28caa7b94)] -> css selector: [type=submit]] element is clickable
+2024-08-28 18:01:41,007 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (fb87cadba3f4ad3aa7d58be28caa7b94)] -> css selector: [type=submit]]
+2024-08-28 18:01:41,047 - com.AHF.utils.ElementUtils -INFO - waiting for the element visibility
+2024-08-28 18:01:41,167 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (fb87cadba3f4ad3aa7d58be28caa7b94)] -> css selector: [name='mobileNumber']] element is clickable
+2024-08-28 18:01:41,445 - com.AHF.utils.ElementUtils -INFO - clearAndSendKeys(), invoked and enter text  "7207614434" in [[ChromeDriver: chrome on windows (fb87cadba3f4ad3aa7d58be28caa7b94)] -> css selector: [name='mobileNumber']]
+2024-08-28 18:02:32,729 - com.AHF.utils.ElementUtils -INFO - Proxy element for: DefaultElementLocator 'By.cssSelector: [name='otp']' element is clickable
+2024-08-28 18:02:32,929 - com.AHF.hook.MyHooks -INFO - driver  quit
+2024-08-28 18:05:19,697 - com.AHF.utils.ConfigReader -INFO - read property file 
+2024-08-28 18:05:21,578 - com.AHF.driverfactory.DriverFactory -INFO - chrome driver initialized
+2024-08-28 18:05:24,171 - com.AHF.hook.MyHooks -INFO - url loaded in browser https://dev-diwas.walkingtree.tech/diwas
+2024-08-28 18:05:24,299 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (d452a025858ec08d4fae957e4a294a23)] -> xpath: //*[text()='Login']] element is clickable
+2024-08-28 18:05:34,626 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element Proxy element for: DefaultElementLocator 'By.xpath: //*[text()='Login']'
+2024-08-28 18:05:34,735 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (d452a025858ec08d4fae957e4a294a23)] -> css selector: [type=submit]] element is clickable
+2024-08-28 18:05:34,868 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (d452a025858ec08d4fae957e4a294a23)] -> css selector: [type=submit]]
+2024-08-28 18:05:34,919 - com.AHF.utils.ElementUtils -INFO - waiting for the element visibility
+2024-08-28 18:05:35,037 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (d452a025858ec08d4fae957e4a294a23)] -> css selector: [name='mobileNumber']] element is clickable
+2024-08-28 18:05:35,334 - com.AHF.utils.ElementUtils -INFO - clearAndSendKeys(), invoked and enter text  "7207614434" in [[ChromeDriver: chrome on windows (d452a025858ec08d4fae957e4a294a23)] -> css selector: [name='mobileNumber']]
+2024-08-28 18:05:48,127 - com.AHF.hook.MyHooks -INFO - driver  quit
+2024-08-28 18:07:45,865 - com.AHF.utils.ConfigReader -INFO - read property file 
+2024-08-28 18:07:47,713 - com.AHF.driverfactory.DriverFactory -INFO - chrome driver initialized
+2024-08-28 18:07:50,209 - com.AHF.hook.MyHooks -INFO - url loaded in browser https://dev-diwas.walkingtree.tech/diwas
+2024-08-28 18:07:50,314 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (82e045df32f3eb8cc68e179a78bdbe0e)] -> xpath: //*[text()='Login']] element is clickable
+2024-08-28 18:08:00,642 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element Proxy element for: DefaultElementLocator 'By.xpath: //*[text()='Login']'
+2024-08-28 18:08:04,757 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (82e045df32f3eb8cc68e179a78bdbe0e)] -> css selector: [type=submit]] element is clickable
+2024-08-28 18:08:04,831 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (82e045df32f3eb8cc68e179a78bdbe0e)] -> css selector: [type=submit]]
+2024-08-28 18:08:04,874 - com.AHF.utils.ElementUtils -INFO - waiting for the element visibility
+2024-08-28 18:08:04,982 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (82e045df32f3eb8cc68e179a78bdbe0e)] -> css selector: [name='mobileNumber']] element is clickable
+2024-08-28 18:08:05,275 - com.AHF.utils.ElementUtils -INFO - clearAndSendKeys(), invoked and enter text  "7207614434" in [[ChromeDriver: chrome on windows (82e045df32f3eb8cc68e179a78bdbe0e)] -> css selector: [name='mobileNumber']]
+2024-08-28 18:11:33,075 - com.AHF.utils.ConfigReader -INFO - read property file 
+2024-08-28 18:11:35,291 - com.AHF.driverfactory.DriverFactory -INFO - chrome driver initialized
+2024-08-28 18:11:37,036 - com.AHF.hook.MyHooks -INFO - url loaded in browser https://dev-diwas.walkingtree.tech/diwas
+2024-08-28 18:11:37,154 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (75945d34007cf78308af7667b4ead833)] -> xpath: //*[text()='Login']] element is clickable
+2024-08-28 18:11:47,485 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element Proxy element for: DefaultElementLocator 'By.xpath: //*[text()='Login']'
+2024-08-28 18:11:51,568 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (75945d34007cf78308af7667b4ead833)] -> css selector: [type=submit]] element is clickable
+2024-08-28 18:11:51,660 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (75945d34007cf78308af7667b4ead833)] -> css selector: [type=submit]]
+2024-08-28 18:11:51,701 - com.AHF.utils.ElementUtils -INFO - waiting for the element visibility
+2024-08-28 18:11:51,817 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (75945d34007cf78308af7667b4ead833)] -> css selector: [name='mobileNumber']] element is clickable
+2024-08-28 18:11:52,137 - com.AHF.utils.ElementUtils -INFO - clearAndSendKeys(), invoked and enter text  7207614434 in [[ChromeDriver: chrome on windows (75945d34007cf78308af7667b4ead833)] -> css selector: [name='mobileNumber']]
+2024-08-28 18:12:43,415 - com.AHF.utils.ElementUtils -INFO - Proxy element for: DefaultElementLocator 'By.cssSelector: [name='otp']' element is clickable
+2024-08-28 18:12:43,603 - com.AHF.hook.MyHooks -INFO - driver  quit
+2024-08-28 18:16:09,309 - com.AHF.utils.ConfigReader -INFO - read property file 
+2024-08-28 18:16:11,168 - com.AHF.driverfactory.DriverFactory -INFO - chrome driver initialized
+2024-08-28 18:16:12,590 - com.AHF.hook.MyHooks -INFO - url loaded in browser https://dev-diwas.walkingtree.tech/diwas
+2024-08-28 18:16:12,718 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (2007e04e0c0d61780ce1158428181e7e)] -> xpath: //*[text()='Login']] element is clickable
+2024-08-28 18:16:23,011 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element Proxy element for: DefaultElementLocator 'By.xpath: //*[text()='Login']'
+2024-08-28 18:16:27,125 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (2007e04e0c0d61780ce1158428181e7e)] -> css selector: [type=submit]] element is clickable
+2024-08-28 18:16:27,234 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (2007e04e0c0d61780ce1158428181e7e)] -> css selector: [type=submit]]
+2024-08-28 18:16:27,282 - com.AHF.utils.ElementUtils -INFO - waiting for the element visibility
+2024-08-28 18:16:27,417 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (2007e04e0c0d61780ce1158428181e7e)] -> css selector: [name='mobileNumber']] element is clickable
+2024-08-28 18:16:27,708 - com.AHF.utils.ElementUtils -INFO - clearAndSendKeys(), invoked and enter text  7207614434 in [[ChromeDriver: chrome on windows (2007e04e0c0d61780ce1158428181e7e)] -> css selector: [name='mobileNumber']]
+2024-08-28 18:16:27,785 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (2007e04e0c0d61780ce1158428181e7e)] -> css selector: [type=submit]] element is clickable
+2024-08-28 18:16:27,866 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (2007e04e0c0d61780ce1158428181e7e)] -> css selector: [type=submit]]
+2024-08-28 18:16:28,150 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (2007e04e0c0d61780ce1158428181e7e)] -> css selector: [name='otp']] element is clickable
+2024-08-28 18:16:28,413 - com.AHF.utils.ElementUtils -INFO - clearAndSendKeys(), invoked and enter text  123456 in [[ChromeDriver: chrome on windows (2007e04e0c0d61780ce1158428181e7e)] -> css selector: [name='otp']]
+2024-08-28 18:16:28,483 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (2007e04e0c0d61780ce1158428181e7e)] -> css selector: [type='submit']] element is clickable
+2024-08-28 18:16:28,550 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (2007e04e0c0d61780ce1158428181e7e)] -> css selector: [type='submit']]
+2024-08-28 18:16:28,881 - com.AHF.hook.MyHooks -INFO - driver  quit
+2024-08-28 18:17:34,519 - com.AHF.utils.ConfigReader -INFO - read property file 
+2024-08-28 18:17:36,324 - com.AHF.driverfactory.DriverFactory -INFO - chrome driver initialized
+2024-08-28 18:17:37,806 - com.AHF.hook.MyHooks -INFO - url loaded in browser https://dev-diwas.walkingtree.tech/diwas
+2024-08-28 18:17:37,935 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (21f2187d98abcd2091efe61ccfac710d)] -> xpath: //*[text()='Login']] element is clickable
+2024-08-28 18:17:48,177 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element Proxy element for: DefaultElementLocator 'By.xpath: //*[text()='Login']'
+2024-08-28 18:17:48,255 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (21f2187d98abcd2091efe61ccfac710d)] -> css selector: [type=submit]] element is clickable
+2024-08-28 18:17:48,375 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (21f2187d98abcd2091efe61ccfac710d)] -> css selector: [type=submit]]
+2024-08-28 18:17:48,424 - com.AHF.utils.ElementUtils -INFO - waiting for the element visibility
+2024-08-28 18:17:48,547 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (21f2187d98abcd2091efe61ccfac710d)] -> css selector: [name='mobileNumber']] element is clickable
+2024-08-28 18:17:48,813 - com.AHF.utils.ElementUtils -INFO - clearAndSendKeys(), invoked and enter text  7207614434 in [[ChromeDriver: chrome on windows (21f2187d98abcd2091efe61ccfac710d)] -> css selector: [name='mobileNumber']]
+2024-08-28 18:17:48,892 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (21f2187d98abcd2091efe61ccfac710d)] -> css selector: [type=submit]] element is clickable
+2024-08-28 18:17:48,989 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (21f2187d98abcd2091efe61ccfac710d)] -> css selector: [type=submit]]
+2024-08-28 18:17:49,613 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (21f2187d98abcd2091efe61ccfac710d)] -> css selector: [name='otp']] element is clickable
+2024-08-28 18:17:49,856 - com.AHF.utils.ElementUtils -INFO - clearAndSendKeys(), invoked and enter text  123456 in [[ChromeDriver: chrome on windows (21f2187d98abcd2091efe61ccfac710d)] -> css selector: [name='otp']]
+2024-08-28 18:17:49,926 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (21f2187d98abcd2091efe61ccfac710d)] -> css selector: [type='submit']] element is clickable
+2024-08-28 18:17:50,023 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (21f2187d98abcd2091efe61ccfac710d)] -> css selector: [type='submit']]
+2024-08-28 18:17:50,280 - com.AHF.hook.MyHooks -INFO - driver  quit
+2024-08-28 18:18:27,447 - com.AHF.utils.ConfigReader -INFO - read property file 
+2024-08-28 18:18:29,312 - com.AHF.driverfactory.DriverFactory -INFO - chrome driver initialized
+2024-08-28 18:18:30,783 - com.AHF.hook.MyHooks -INFO - url loaded in browser https://dev-diwas.walkingtree.tech/diwas
+2024-08-28 18:18:30,925 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (905a903ba81eb0e1b9f2310a30815548)] -> xpath: //*[text()='Login']] element is clickable
+2024-08-28 18:18:41,208 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element Proxy element for: DefaultElementLocator 'By.xpath: //*[text()='Login']'
+2024-08-28 18:18:41,301 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (905a903ba81eb0e1b9f2310a30815548)] -> css selector: [type=submit]] element is clickable
+2024-08-28 18:18:41,396 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (905a903ba81eb0e1b9f2310a30815548)] -> css selector: [type=submit]]
+2024-08-28 18:18:41,440 - com.AHF.utils.ElementUtils -INFO - waiting for the element visibility
+2024-08-28 18:18:41,595 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (905a903ba81eb0e1b9f2310a30815548)] -> css selector: [name='mobileNumber']] element is clickable
+2024-08-28 18:18:41,989 - com.AHF.utils.ElementUtils -INFO - clearAndSendKeys(), invoked and enter text  7207614434 in [[ChromeDriver: chrome on windows (905a903ba81eb0e1b9f2310a30815548)] -> css selector: [name='mobileNumber']]
+2024-08-28 18:18:42,058 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (905a903ba81eb0e1b9f2310a30815548)] -> css selector: [type=submit]] element is clickable
+2024-08-28 18:18:42,139 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (905a903ba81eb0e1b9f2310a30815548)] -> css selector: [type=submit]]
+2024-08-28 18:18:42,459 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (905a903ba81eb0e1b9f2310a30815548)] -> css selector: [name='otp']] element is clickable
+2024-08-28 18:18:42,818 - com.AHF.utils.ElementUtils -INFO - clearAndSendKeys(), invoked and enter text  123456 in [[ChromeDriver: chrome on windows (905a903ba81eb0e1b9f2310a30815548)] -> css selector: [name='otp']]
+2024-08-28 18:18:42,899 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (905a903ba81eb0e1b9f2310a30815548)] -> css selector: [type='submit']] element is clickable
+2024-08-28 18:18:42,969 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (905a903ba81eb0e1b9f2310a30815548)] -> css selector: [type='submit']]
+2024-08-28 18:18:43,291 - com.AHF.hook.MyHooks -INFO - driver  quit
+2024-08-28 18:18:50,991 - com.AHF.utils.ConfigReader -INFO - read property file 
+2024-08-28 18:18:52,831 - com.AHF.driverfactory.DriverFactory -INFO - chrome driver initialized
+2024-08-28 18:18:55,363 - com.AHF.hook.MyHooks -INFO - url loaded in browser https://dev-diwas.walkingtree.tech/diwas
+2024-08-28 18:18:55,501 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (e649e1e3af5951e1dbb56c04d882bcf4)] -> xpath: //*[text()='Login']] element is clickable
+2024-08-28 18:19:05,818 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element Proxy element for: DefaultElementLocator 'By.xpath: //*[text()='Login']'
+2024-08-28 18:19:05,908 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (e649e1e3af5951e1dbb56c04d882bcf4)] -> css selector: [type=submit]] element is clickable
+2024-08-28 18:19:06,012 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (e649e1e3af5951e1dbb56c04d882bcf4)] -> css selector: [type=submit]]
+2024-08-28 18:19:06,045 - com.AHF.utils.ElementUtils -INFO - waiting for the element visibility
+2024-08-28 18:19:06,155 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (e649e1e3af5951e1dbb56c04d882bcf4)] -> css selector: [name='mobileNumber']] element is clickable
+2024-08-28 18:19:06,429 - com.AHF.utils.ElementUtils -INFO - clearAndSendKeys(), invoked and enter text  7207614434 in [[ChromeDriver: chrome on windows (e649e1e3af5951e1dbb56c04d882bcf4)] -> css selector: [name='mobileNumber']]
+2024-08-28 18:19:06,529 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (e649e1e3af5951e1dbb56c04d882bcf4)] -> css selector: [type=submit]] element is clickable
+2024-08-28 18:19:06,631 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (e649e1e3af5951e1dbb56c04d882bcf4)] -> css selector: [type=submit]]
+2024-08-28 18:19:06,924 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (e649e1e3af5951e1dbb56c04d882bcf4)] -> css selector: [name='otp']] element is clickable
+2024-08-28 18:19:07,195 - com.AHF.utils.ElementUtils -INFO - clearAndSendKeys(), invoked and enter text  123456 in [[ChromeDriver: chrome on windows (e649e1e3af5951e1dbb56c04d882bcf4)] -> css selector: [name='otp']]
+2024-08-28 18:19:07,295 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (e649e1e3af5951e1dbb56c04d882bcf4)] -> css selector: [type='submit']] element is clickable
+2024-08-28 18:19:07,397 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (e649e1e3af5951e1dbb56c04d882bcf4)] -> css selector: [type='submit']]
+2024-08-28 18:19:07,667 - com.AHF.hook.MyHooks -INFO - driver  quit
+2024-08-28 18:21:34,582 - com.AHF.utils.ConfigReader -INFO - read property file 
+2024-08-28 18:21:36,364 - com.AHF.driverfactory.DriverFactory -INFO - chrome driver initialized
+2024-08-28 18:21:37,938 - com.AHF.hook.MyHooks -INFO - url loaded in browser https://dev-diwas.walkingtree.tech/diwas
+2024-08-28 18:21:38,064 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (fdf4e2c7d67a270066bbb16e106388d7)] -> xpath: //*[text()='Login']] element is clickable
+2024-08-28 18:21:48,305 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element Proxy element for: DefaultElementLocator 'By.xpath: //*[text()='Login']'
+2024-08-28 18:21:48,386 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (fdf4e2c7d67a270066bbb16e106388d7)] -> css selector: [type=submit]] element is clickable
+2024-08-28 18:21:48,517 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (fdf4e2c7d67a270066bbb16e106388d7)] -> css selector: [type=submit]]
+2024-08-28 18:21:48,559 - com.AHF.utils.ElementUtils -INFO - waiting for the element visibility
+2024-08-28 18:21:48,683 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (fdf4e2c7d67a270066bbb16e106388d7)] -> css selector: [name='mobileNumber']] element is clickable
+2024-08-28 18:21:48,959 - com.AHF.utils.ElementUtils -INFO - clearAndSendKeys(), invoked and enter text  7207614434 in [[ChromeDriver: chrome on windows (fdf4e2c7d67a270066bbb16e106388d7)] -> css selector: [name='mobileNumber']]
+2024-08-28 18:21:49,025 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (fdf4e2c7d67a270066bbb16e106388d7)] -> css selector: [type=submit]] element is clickable
+2024-08-28 18:21:49,124 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (fdf4e2c7d67a270066bbb16e106388d7)] -> css selector: [type=submit]]
+2024-08-28 18:21:49,417 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (fdf4e2c7d67a270066bbb16e106388d7)] -> css selector: [name='otp']] element is clickable
+2024-08-28 18:21:49,693 - com.AHF.utils.ElementUtils -INFO - clearAndSendKeys(), invoked and enter text  123456 in [[ChromeDriver: chrome on windows (fdf4e2c7d67a270066bbb16e106388d7)] -> css selector: [name='otp']]
+2024-08-28 18:21:49,764 - com.AHF.utils.ElementUtils -INFO - [[ChromeDriver: chrome on windows (fdf4e2c7d67a270066bbb16e106388d7)] -> css selector: [type='submit']] element is clickable
+2024-08-28 18:21:49,838 - com.AHF.utils.ElementUtils -INFO - clickOnElement(), invoked and clicked on element [[ChromeDriver: chrome on windows (fdf4e2c7d67a270066bbb16e106388d7)] -> css selector: [type='submit']]
+2024-08-28 18:21:50,101 - com.AHF.hook.MyHooks -INFO - driver  quit
